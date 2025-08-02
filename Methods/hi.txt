@@ -1,0 +1,1 @@
+we will see some static method inside this folder and why they used adn we also see how to create the methods which return soem values from it .
