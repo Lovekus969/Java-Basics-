@@ -1,0 +1,1 @@
+An exception is an event that disrupts the normal flow of a program. It usually occurs during runtime (not compile time).
