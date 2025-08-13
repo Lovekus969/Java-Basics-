@@ -1,0 +1,10 @@
+What is a Flowchart?
+        A flowchart is a visual diagram that shows the steps of a process or algorithm using different shapes and arrows to indicate the flow of control.
+        It’s like a map of your program’s logic — you can follow the arrows to see what happens next.
+
+2. Why Use a Flowchart?
+      Makes complex logic easy to understand.
+      Helps in planning before coding.
+      Useful for documentation.
+      Makes debugging easier (you can trace where the problem might occur).
+      
