@@ -7,4 +7,7 @@ What is a Flowchart?
       Helps in planning before coding.
       Useful for documentation.
       Makes debugging easier (you can trace where the problem might occur).
-      
+
+ Assignment Operator =>>
+The = operator in most programming languages does not mean equality (that’s usually ==).
+Instead, it assigns the value on the right-hand side (RHS) to the variable on the left-hand side (LHS).
