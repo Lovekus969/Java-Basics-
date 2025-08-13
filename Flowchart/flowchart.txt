@@ -10,4 +10,12 @@ What is a Flowchart?
 
  Assignment Operator =>>
 The = operator in most programming languages does not mean equality (that’s usually ==).
-Instead, it assigns the value on the right-hand side (RHS) to the variable on the left-hand side (LHS).
+                Instead, it assigns the value on the right-hand side (RHS) to the variable on the left-hand side (LHS).
+                Operator Categories in Java
+                                Arithmetic Operators → +, -, *, /, %
+                                Relational Operators → ==, !=, <, >, <=, >
+                                Logical Operators → &&, ||, !
+                                Assignment Operators → =, +=, -=, *=, /=, %=
+                                Unary Operators → ++, --, +, -
+                                Bitwise Operators → &, |, ^, ~, <<, >>, >>>
+                                Ternary Operator → condition ? valueIfTrue : valueIfFalse
