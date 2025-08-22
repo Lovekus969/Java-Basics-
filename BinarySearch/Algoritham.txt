@@ -3,3 +3,5 @@ Binary Search is an efficient algorithm for finding a target value in a sorted a
         Idea: Repeatedly divide the search interval in half.
         Time Complexity: O(log n)
         Space Complexity: O(1) (iterative version)
+$$ Conditions for Binary Search
+        The data must be sorted (ascending or descending). You must have random access (like arrays, not linked lists).
