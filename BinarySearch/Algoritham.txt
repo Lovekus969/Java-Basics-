@@ -5,3 +5,8 @@ Binary Search is an efficient algorithm for finding a target value in a sorted a
         Space Complexity: O(1) (iterative version)
 $$ Conditions for Binary Search
         The data must be sorted (ascending or descending). You must have random access (like arrays, not linked lists).
+
+
+Q1 First Occurrence of an Element
+
+ Problem: Given a sorted array with duplicates, return the index of the first occurrence of a target element. If not found, return -1.
