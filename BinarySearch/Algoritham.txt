@@ -1,0 +1,5 @@
+What is Binary Search?
+Binary Search is an efficient algorithm for finding a target value in a sorted array.
+        Idea: Repeatedly divide the search interval in half.
+        Time Complexity: O(log n)
+        Space Complexity: O(1) (iterative version)
