@@ -10,3 +10,6 @@ $$ Conditions for Binary Search
 Q1 First Occurrence of an Element
 
  Problem: Given a sorted array with duplicates, return the index of the first occurrence of a target element. If not found, return -1.
+Q2 Last Occurrence of an Element
+
+👉 Problem: Same as above, but return the last occurrence.
